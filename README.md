@@ -1,15 +1,5 @@
 # Wei Meng's OSSU Computer Science Journey
 
-<div align="center" style="text-align: center">
-  <img src="images/ossu-logo.webp" alt="OSSU logo" />
-  <h3>Open Source Society University (OSSU) Fork</h3>
-  <p>
-    My personalized roadmap to a complete self-taught Computer Science education.
-  </p>
-</div>
-
----
-
 ## 🎯 Motivation
 
 I come from a finance background without a formal Computer Science degree. After transitioning into a data and engineering role, I realized the need to strengthen my theoretical grounding in Computer Science.
@@ -54,13 +44,6 @@ The curriculum mirrors the structure of OSSU and includes:
 - [Final project](#final-project)
 
 ---
-
-## Prerequisites
-
-- [Core CS](#core-cs) assumes the student has already taken [high school math](https://ossu.dev/precollege-math), including algebra, geometry, and pre-calculus.
-- [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
-and is knowledgeable enough now to decide which electives to take.
-- Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
 
 ## Intro CS
 
@@ -372,34 +355,84 @@ Courses | Duration | Effort | Prerequisites
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 [Game Design and Development with Unity 2020 (Specialization)](https://www.coursera.org/specializations/game-design-and-development) | 6 months | 5 hours/week | programming, interactive design
 
-## Congratulations
+## ✅ Progress Tracker
 
-After completing the requirements of the curriculum above,
-you will have completed the equivalent of a full bachelor's degree in Computer Science.
-Congratulations!
+| Module Category | Course | ✅ |
+|-----------------|--------|----|
+| **Intro CS** | Introduction to Computer Science and Programming using Python | [ ] |
+| **Core Programming** | Systematic Program Design | [ ] |
+|  | Class-based Program Design | [ ] |
+|  | Programming Languages A | [ ] |
+|  | Programming Languages B | [ ] |
+|  | Programming Languages C | [ ] |
+|  | Object-Oriented Design | [ ] |
+|  | Software Architecture | [ ] |
+| **Core Math** | Calculus 1A: Differentiation | [ ] |
+|  | Calculus 1B: Integration | [ ] |
+|  | Calculus 1C: Coordinate Systems & Infinite Series | [ ] |
+|  | Mathematics for Computer Science | [ ] |
+| **CS Tools** | The Missing Semester of Your CS Education | [ ] |
+| **Core Systems** | Nand2Tetris Part I | [ ] |
+|  | Nand2Tetris Part II | [ ] |
+|  | Operating Systems: Three Easy Pieces | [ ] |
+|  | Computer Networking: A Top-Down Approach | [ ] |
+| **Core Theory** | Divide and Conquer, Sorting and Searching, and Randomized Algorithms | [ ] |
+|  | Graph Search, Shortest Paths, and Data Structures | [ ] |
+|  | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming | [ ] |
+|  | Shortest Paths Revisited, NP-Complete Problems | [ ] |
+| **Core Security** | Cybersecurity Fundamentals | [ ] |
+|  | Secure Coding Principles | [ ] |
+|  | Identifying Security Vulnerabilities (C/C++) or (Java) | [ ] |
+| **Core Applications** | Databases: Modeling and Theory | [ ] |
+|  | Databases: Relational Databases and SQL | [ ] |
+|  | Databases: Semistructured Data | [ ] |
+|  | Machine Learning | [ ] |
+|  | Computer Graphics | [ ] |
+|  | Software Engineering: Introduction | [ ] |
+| **Core Ethics** | Ethics, Technology, and Engineering | [ ] |
+|  | Introduction to Intellectual Property | [ ] |
+|  | Data Privacy Fundamentals | [ ] |
+| **Advanced Programming** | Parallel Programming | [ ] |
+|  | Compilers | [ ] |
+|  | Introduction to Haskell | [ ] |
+|  | Learn Prolog Now! | [ ] |
+|  | Software Debugging | [ ] |
+|  | Software Testing | [ ] |
+| **Advanced Systems** | Computation Structures 1: Digital Circuits | [ ] |
+|  | Computation Structures 2: Computer Architecture | [ ] |
+|  | Computation Structures 3: Computer Organization | [ ] |
+| **Advanced Theory** | Theory of Computation | [ ] |
+|  | Computational Geometry | [ ] |
+|  | Game Theory | [ ] |
+| **Advanced InfoSec** | Web Security Fundamentals | [ ] |
+|  | Security Governance & Compliance | [ ] |
+|  | Digital Forensics Concepts | [ ] |
+|  | Secure SW Dev: Requirements, Design, and Reuse | [ ] |
+|  | Secure SW Dev: Implementation | [ ] |
+|  | Secure SW Dev: Verification and More Topics | [ ] |
+| **Advanced Math** | Essence of Linear Algebra | [ ] |
+|  | Linear Algebra | [ ] |
+|  | Introduction to Numerical Methods | [ ] |
+|  | Introduction to Formal Logic | [ ] |
+|  | Probability | [ ] |
+| **Final Project** | Fullstack Open (or other capstone) | [ ] |
 
-What is next for you? The possibilities are boundless and overlapping:
+---
 
-- Look for a job as a developer!
-- Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
-- Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
-- Pay attention to emerging technologies in the world of software development:
-  + Explore the **actor model** through [Elixir](https://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
-  + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
-  + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development.
+## 📜 License
 
-![keep learning](images/keep-learning.webp)
+Based on the original OSSU project: [github.com/ossu/computer-science](https://github.com/ossu/computer-science)  
+This repo is maintained by Wei Meng for personal learning and tracking purposes.
 
-# Code of conduct
-[OSSU's code of conduct](https://github.com/ossu/code-of-conduct).
+---
 
-## How to show your progress
+## 🙌 Acknowledgments
 
-[Fork](https://www.freecodecamp.org/news/how-to-fork-a-github-repository/) the [GitHub repo](https://github.com/ossu/computer-science) into your own GitHub account and put ✅ next to the stuff you've completed as you complete it. This can serve as your [kanban board](https://en.wikipedia.org/wiki/Kanban_board) and will be faster to implement than any other solution (giving you time to spend on the courses).
+Thanks to the OSSU team and contributors for making high-quality CS education accessible to all.
 
-# Team
+> “You can’t purchase success, but you can work for it.”
 
-* **[Eric Douglas](https://github.com/ericdouglas)**: founder of OSSU
-* **[Josh Hanson](https://github.com/joshmhanson)**: lead technical maintainer
-* **[Waciuma Wanjohi](https://github.com/waciumawanjohi)**: lead academic maintainer
-* **[Contributors](https://github.com/ossu/computer-science/graphs/contributors)**
+---
+
+![Keep learning](images/keep-learning.webp)
+
