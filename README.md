@@ -2,13 +2,13 @@
 
 ## 🎯 Motivation
 
-I come from a finance background without a formal Computer Science degree. After transitioning into a data and engineering role, I realized the need to strengthen my theoretical grounding in Computer Science.
+I come from a finance background without a formal Computer Science degree. After transitioning into a data/engineering role, I realized the need to strengthen my theoretical grounding in Computer Science.
 
 This fork of the [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science) will serve as:
 - **A personal learning roadmap**, tailored to my pace and interest.
 - **A kanban board**, where I track course completion progress using ✅ checkboxes.
 
-My goal is to build strong fundamentals in computing systems, algorithms, programming paradigms, and core CS theory—providing the depth I missed from not going through a traditional CS program.
+My goal is to build a strong foundation in computing systems and core CS theory to gain the theoretical grounding I missed from not pursuing a traditional CS degree.
 
 ---
 
