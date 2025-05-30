@@ -20,10 +20,6 @@ The curriculum mirrors the structure of OSSU and includes:
 - **Advanced CS** – electives aligned to personal goals
 - **Final Project** – consolidation and application of knowledge
 
----
-
-# Curriculum
-
 - [Prerequisites](#prerequisites)
 - [Intro CS](#intro-cs)
 - [Core CS](#core-cs)
@@ -47,8 +43,7 @@ The curriculum mirrors the structure of OSSU and includes:
 
 ## Intro CS
 
-This course will introduce you to the world of computer science and programming. This course gives you a flavor of the material to come. If you finish the course wanting more, Computer Science is likely for you!
-
+This course will introduce you to the world of computer science and programming.
 **Topics covered**:
 `computation`
 `imperative programming`
@@ -57,7 +52,7 @@ This course will introduce you to the world of computer science and programming.
 
 Courses | Duration | Effort | Prerequisites | Completed?
 :-- | :--: | :--: | :--: | :--:
-[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | - [ ] Task name
+[Introduction to Computer Science and Programming using Python](coursepages/intro-cs/README.md) | 14 weeks | 6-10 hours/week | [high school algebra](https://ossu.dev/precollege-math) | - [ ]
 
 
 ## Core CS
